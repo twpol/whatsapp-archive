@@ -1,0 +1,6 @@
+{
+    "title": "WhatsApp Archive",
+    "main": {
+        "extraEntries": ["@/preload.ts"]
+    }
+}
